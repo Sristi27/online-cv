@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,7 +18,7 @@ sidebar:
     linkedin: sristi-chowdhury-3660941a5
     github: Sristi27
     telegram: # add your nickname without '@' sign
-    # medium: https://medium.com/@sristi2705
+    medium: https://medium.com/@sristi2705
     gitlab:
     bitbucket:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -64,14 +64,14 @@ experiences:
       time: 2020 - Present
       company: KGEC IIP Cell
       details: |
-        - Working as a MEAN Stack Developer.
+        Working as a MEAN Stack Developer.
         - Creating an Alumni Website for the college alumni.
         
     - role: Graphics Designer
       time: 2019 - Present
       company: The Inked Voices
       details: |
-        - Working as a Designer
+        Working as a Designer and Illustartor
         - Creating designs and posters for various occassions
         
     
@@ -104,6 +104,7 @@ projects:
 
 publications:
     title: Publications
+    intro:
     papers:
       - title: Two City Scheduling
         link: "https://medium.com/@sristi2705/two-city-scheduling-56835a0d99ff"
