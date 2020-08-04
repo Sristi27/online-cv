@@ -29,7 +29,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: bengali
+      - idiom: Bengali
         level: Professional
 
       - idiom: Hindi
@@ -87,6 +87,10 @@ projects:
       - title: Color-Grading Game
         link: "https://color-grading.netlify.app/"
         tagline: "A very interesting guessing gaame created using HTML,CSS,Js"
+        
+      - title: Dance-Academy
+        link: "https://github.com/Sristi27/Dance-Website"
+        tagline: "A website for a Dance Academy using HTML,CSS,Node JS and MongoDB"
 
       - title: Magic Notes
         link: "https://github.com/Sristi27/Magic-Notes"
@@ -100,26 +104,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: Two City Scheduling
+        link: "https://medium.com/@sristi2705/two-city-scheduling-56835a0d99ff"
+        
 skills:
     title: Skills &amp; Proficiency
 
