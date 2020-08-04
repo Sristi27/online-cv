@@ -1,4 +1,4 @@
-#
+p#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sristi Chowdhury
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: face.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sristi2705@gmail.com
