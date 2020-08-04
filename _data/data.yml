@@ -14,13 +14,12 @@ sidebar:
     # Sidebar links
     email: sristi2705@gmail.com
     phone: 6291488841
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: sristi-chowdhury-3660941a5
     github: Sristi27
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,35 +28,35 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: bengali
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Designing
         link:
 
-      - item: Snowboarding
+      - item: Doodling
         link:
 
       - item: Cooking
+        link:
+        
+      - item: Photography
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a second year undergrad pursuing Bachelors in Information Technology.I am a Full Stack Developer and a coding enthusiast.Currently involved 
+      with Competitive Programming and Web Development Projects. 
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Btech in Information Technology
+      university: Kalyani Government Engineering College
+      time: 2018-2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
