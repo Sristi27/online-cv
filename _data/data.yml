@@ -74,6 +74,21 @@ experiences:
         Working as a Designer and Illustartor
         - Creating designs and posters for various occassions
         
+    - role: Graphics Designer
+      time: 2019 - Present
+      company: Shutterbug KGEC
+      details: |
+        Working as a Designer and Illustartor
+        - Creating designs and posters for various events for the college and other national holidays and occassions.
+    
+    - role: Owner And Creator
+      time: 2019 - Present
+      company: Doodles By Sristi
+      link: "https://www.instagram.com/doodlesbysristi/"
+      details: |
+        Working as a Designer and Illustartor
+        
+        
     
 projects:
     title: Projects
@@ -135,4 +150,4 @@ skills:
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Sristi Chowdhury</a>
+    Designed with <i class="fas fa-heart"></i> by Sristi Chowdhury
