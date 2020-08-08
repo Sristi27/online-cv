@@ -66,6 +66,7 @@ experiences:
       details: |
         Working as a MEAN Stack Developer.
         - Creating an Alumni Website for the college alumni.
+        - Technolgies Used : Angular,Node,Express and MongoDb
         
     - role: Graphics Designer
       time: 2019 - Present
@@ -81,12 +82,7 @@ experiences:
         Working as a Designer and Illustartor
         - Creating designs and posters for various events for the college and other national holidays and occassions.
     
-    - role: Owner And Creator
-      time: 2019 - Present
-      company: Doodles By Sristi
-      link: "https://www.instagram.com/doodlesbysristi/"
-      details: |
-        Working as a Designer and Illustartor
+    
         
         
     
@@ -124,6 +120,9 @@ publications:
       - title: Two City Scheduling
         link: "https://medium.com/@sristi2705/two-city-scheduling-56835a0d99ff"
         
+      -title: Doodles By Sristi ~ My Creation
+       link: "https://www.instagram.com/doodlesbysristi/"
+    
 skills:
     title: Skills &amp; Proficiency
 
@@ -135,13 +134,20 @@ skills:
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 95%
 
       - name: HTML5 & CSS
         level: 95%
 
       - name: Node,Express
         level: 85%
+        
+      - name: MongoDb
+        level: 85%
+        
+      - name: SQL
+        level: 50%
+       
 
       - name: C/C++
         level: 90%
