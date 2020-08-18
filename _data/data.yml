@@ -102,6 +102,10 @@ projects:
       - title: Dance-Academy
         link: "https://github.com/Sristi27/Dance-Website"
         tagline: "A website for a Dance Academy using HTML,CSS,Node JS and MongoDB"
+       
+      - title: Covid Tracker
+        link: "https://github.com/Sristi27/Covid-Tracker"
+        tagline: "Covid cases tracking app made using Angular and covid19 API"
 
       - title: Magic Notes
         link: "https://github.com/Sristi27/Magic-Notes"
@@ -110,6 +114,10 @@ projects:
       - title: Student Management App
         link: "https://github.com/debadree25/student-managment"
         tagline: "A MEAN Stack up which helps an educational institute  keep track of the students studying in the organisation."
+       
+      - title: Stock Price Prediction
+        link: "https://github.com/Sristi27/Stock-Price-Prediction"
+        tagline: "Predicts the stock prices at the end of a certain day using Linear Regression Model."
 
      
 
