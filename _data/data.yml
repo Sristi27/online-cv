@@ -135,30 +135,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: C/C++
+        level: 90%
+        
       - name: Python 
-        level: 98%
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 90%
 
       - name: Angular
-        level: 95%
+        level: 85%
 
       - name: HTML5 & CSS
         level: 95%
 
       - name: Node,Express
-        level: 85%
+        level: 80%
         
       - name: MongoDb
         level: 85%
         
-      - name: SQL
+      - name: React
         level: 50%
-       
-
-      - name: C/C++
-        level: 90%
         
       - name: Illustrator & Photoshop
         level: 80%
