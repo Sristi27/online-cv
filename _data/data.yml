@@ -115,9 +115,9 @@ projects:
         link: "https://github.com/debadree25/student-managment"
         tagline: "A MEAN Stack up which helps an educational institute  keep track of the students studying in the organisation."
        
-      - title: Stock Price Prediction
-        link: "https://github.com/Sristi27/Stock-Price-Prediction"
-        tagline: "Predicts the stock prices at the end of a certain day using Linear Regression Model."
+      - title: To-do App
+        link: "https://Sristi27.github.io/to-do-App"
+        tagline: "Helps user manage his/her daily tasks."
 
      
 
